@@ -10,6 +10,7 @@ import {Styles} from './style';
 
  const index = () => {
     
+    
         const navigation = useNavigation();
         const {auth} = useContext(FirebaseContext)
         const logout = () => {

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984258625782",
+    "project_id": "ecffoodproject",
+    "storage_bucket": "ecffoodproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984258625782:android:8a2eeabadb77a7eb562cd7",
+        "android_client_info": {
+          "package_name": "com.foodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984258625782-7frockbaed2sqf0htmpb1963jdj8hv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFCpcV0WvOmYKSVdXgF1jitlLfjMq0ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984258625782-7frockbaed2sqf0htmpb1963jdj8hv1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
